@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T06:08:26.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="vt7dqpF3rt1P2YdImgGS" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T07:12:44.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="a3_zfdGdyfPSzvtmK6GS" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5717" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6394" dy="3816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -76,7 +76,7 @@
         <mxCell id="e6XdqgQ0KWwg-wVy7-in-15" value="게임방법 이미지" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-260" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6XdqgQ0KWwg-wVy7-in-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e6XdqgQ0KWwg-wVy7-in-17" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="e6XdqgQ0KWwg-wVy7-in-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="e6XdqgQ0KWwg-wVy7-in-17" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6XdqgQ0KWwg-wVy7-in-17" value="종료버튼" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -421,17 +421,17 @@
         <mxCell id="OaZcFm6w8ohhtad2Yirw-71" value="Debug.log(&quot;Table Name is empty&quot;)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1587" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OaZcFm6w8ohhtad2Yirw-77" value="실패" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-73" target="OaZcFm6w8ohhtad2Yirw-76">
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-77" value="실패시" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-73" target="OaZcFm6w8ohhtad2Yirw-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OaZcFm6w8ohhtad2Yirw-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-73" target="OaZcFm6w8ohhtad2Yirw-78">
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-79" value="성공시" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-73" target="OaZcFm6w8ohhtad2Yirw-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OaZcFm6w8ohhtad2Yirw-73" value="UseCase" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1427" y="30" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OaZcFm6w8ohhtad2Yirw-76" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Debug.LogError(callback)&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1627" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-76" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Debug.LogError(&quot;callback&quot;)&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1627" y="60" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OaZcFm6w8ohhtad2Yirw-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-78" target="OaZcFm6w8ohhtad2Yirw-80">
           <mxGeometry relative="1" as="geometry" />
@@ -546,8 +546,8 @@
         <mxCell id="OaZcFm6w8ohhtad2Yirw-110" value="기록성공&lt;br&gt;코루틴 출력" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OaZcFm6w8ohhtad2Yirw-114" value="Debug.log(&quot;callback&quot;)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-114" value="Debug.logError(&quot;callback&quot;)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="10" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OaZcFm6w8ohhtad2Yirw-122" value="&lt;h1&gt;&lt;font style=&quot;font-size: 27px&quot;&gt;숫자야구&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;숫자야구 게임은 오늘의 미니게임 첫번째 시리즈로써 뒤끝서버를 이용해서 로그인과 랭킹을 등록 할 수 있는 멀티 모바일 게임 입니다.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;뒤끝 콘솔에서 NumberBase 프로젝트에 내부 정보가 저장 되어있으며 콘솔을 통해서 랭크와 테이블 유저를 관리 할 수 있습니다.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;게임은 canvas를 이용해서 개발 하였으며 초기에 두씬으로 나누어서 개발했던 방식과는 달리 뒤끝서버를 추가함에 따라서 부득이하게&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;게임을 전면 수정해 한씬 내부에서 모든 게임을 이동하도록 개발 하였습니다. GameManager 오브젝트에 뒤끝 관련 스크립트를 추가하여서&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;게임 매니저 내부에서 모든 게임을 통제 할 수 있으며 한 씬으로 개발되었기 때문에 서버의 데이터를 모두 저장하지 않아도 되는 방식으로 개&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;되었습니다. 초급 중급 고급 세가지에 모두 각자 다른 테이블을 연결 해두었으며 각각의 테이블에 맞는 랭킹 Uuid의 값은 유니티 inspecter 창&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;에 기재 되어있습니다. googlehash 값은 콘솔창에서 받아오는 방식으로 개발 되었으며 자세한 사항은 뒤끝 개발자 문서를 통해서 확인 하실&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;수 있습니다. 게임의 진행 방식은 초급 중급 고급 각각 3 4 5의&amp;nbsp; 단어와 자리가 일치하도록 번호를 맞추면 승리를 하게 되고 만약 숫자가 맞으&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;나 다른 자리에 위치한다면 ball의 카운트를 출력해서 strike르&amp;nbsp; 모든 수를 채우는 게임 입니다. 현재에는 카운트를 0부터 정해서 가장 적은 카&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;운트로 게임을 승리하는 사람이 높은 랭크를 얻게 되며 랭킹의 1 , 2, 3위는 다른 색의 텍스트로 표시하게 됩니다. 랭크는 1주일 동안 유지되며&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;그 이후에는 초기화 되고 새로운 랭크가 등록이 됩니다.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1420" y="-1020" width="755" height="900" as="geometry" />
@@ -648,6 +648,45 @@
         </mxCell>
         <mxCell id="OaZcFm6w8ohhtad2Yirw-160" value="MainMenu.Login 실행" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="-900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-165" target="OaZcFm6w8ohhtad2Yirw-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-165" value="닉네임 변경&lt;br&gt;(NickName.input)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-166" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="OaZcFm6w8ohhtad2Yirw-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="-100" y="139.2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-167" target="OaZcFm6w8ohhtad2Yirw-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-175" value="실패" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-167" target="OaZcFm6w8ohhtad2Yirw-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-177" value="성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-167" target="OaZcFm6w8ohhtad2Yirw-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-167" value="UseCase" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="-180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-172" target="OaZcFm6w8ohhtad2Yirw-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-172" value="닉네임 변경 실패&lt;br&gt;&amp;nbsp;코루틴 실행" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.37;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OaZcFm6w8ohhtad2Yirw-176" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OaZcFm6w8ohhtad2Yirw-176" value="변경된 &lt;br&gt;닉네임&lt;br&gt;출력" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
