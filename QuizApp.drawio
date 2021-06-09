@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T08:26:28.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0x2p8n130KYZbbkBLc3h" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T08:31:31.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="lS8HUFytZ3qQ8nuSauOs" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5325" dy="3926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4405" dy="3399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -229,7 +229,9 @@
           <mxGeometry x="1880" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-34" value="문제 출제 확인" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1170" y="-1630" width="630" height="1120" as="geometry" />
+          <mxGeometry x="-1170" y="-1630" width="630" height="1120" as="geometry">
+            <mxRectangle x="-1170" y="-1630" width="110" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-43" value="Make-Quiz &lt;br&gt;리스트 확인" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-t9qpgIpIZ9ehlNt-14M-34">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
@@ -663,7 +665,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-240" value="퀴즈 출력" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2020" y="-1630" width="730" height="1690" as="geometry" />
+          <mxGeometry x="-2020" y="-1630" width="730" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-241" value="Quiz &lt;br&gt;리스트 불러오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-t9qpgIpIZ9ehlNt-14M-240">
           <mxGeometry x="230" y="230" width="120" height="60" as="geometry" />
