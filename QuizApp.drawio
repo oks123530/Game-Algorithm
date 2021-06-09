@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T01:19:48.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="jw5Dd-zJmrs0bzGvPd06" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T01:34:02.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MAvimgPHD1f6gufdjFjv" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4498" dy="3926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="3272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -151,6 +151,9 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-1" value="추첨" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3180" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-2" target="-t9qpgIpIZ9ehlNt-14M-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-2" value="마이 페이지" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4248" y="585" width="120" height="60" as="geometry" />
         </mxCell>
@@ -232,7 +235,10 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-26" value="답안 작성&lt;br&gt;(객관식, 주관식)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-28" target="-t9qpgIpIZ9ehlNt-14M-30">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-31" value="오답" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-28" target="-t9qpgIpIZ9ehlNt-14M-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-104" value="정답" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-28" target="-t9qpgIpIZ9ehlNt-14M-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-28" value="정답&lt;br&gt;인가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -360,11 +366,88 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-87" target="-t9qpgIpIZ9ehlNt-14M-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-87" value="현재 추첨권 &lt;br&gt;보유 수 확인&lt;br&gt;및 화면출력" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-87" value="현재 추첨 리스트 &lt;br&gt;불러오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3180" y="865" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-89" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-89" target="-t9qpgIpIZ9ehlNt-14M-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-89" value="&lt;span&gt;현재 추첨권&lt;/span&gt;&lt;br&gt;&lt;span&gt;보유 수 확인&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3180" y="1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-91" target="-t9qpgIpIZ9ehlNt-14M-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-91" value="추첨 리스트 출력" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3180" y="1145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-93" target="-t9qpgIpIZ9ehlNt-14M-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-93" value="추첨리스트 클릭" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3180" y="1285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4248" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-103" target="-t9qpgIpIZ9ehlNt-14M-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-103" value="현재 플레이어&lt;br&gt;&amp;nbsp;추첨권 추가" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1520" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-105" value="정답 화면 송출" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1520" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="-t9qpgIpIZ9ehlNt-14M-130" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1640" y="1950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-130" value="정답 화면 UI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1720" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-132" target="-t9qpgIpIZ9ehlNt-14M-137" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-132" value="다음문제" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2160" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-133" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-130" target="-t9qpgIpIZ9ehlNt-14M-132" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1880" y="1990" as="sourcePoint" />
+            <mxPoint x="1930" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-135" target="-t9qpgIpIZ9ehlNt-14M-139" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-135" value="메인으로" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1940" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-137" target="-t9qpgIpIZ9ehlNt-14M-138" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-137" value="현재 문제를 제외한 문제 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2160" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-138" value="퀴즈풀기&lt;br&gt;불러오기" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2160" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-139" value="홈화면 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1940" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-140" value="추첨 확인 여부 창&lt;br&gt;확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3180" y="1425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-142" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-95" target="-t9qpgIpIZ9ehlNt-14M-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4460" y="790" as="sourcePoint" />
+            <mxPoint x="4520" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5040" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
