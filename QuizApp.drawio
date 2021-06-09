@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T08:12:16.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="WKA1y-rk2KAvytsecH3Q" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T08:26:28.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0x2p8n130KYZbbkBLc3h" version="14.7.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4851" dy="3661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5325" dy="3926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -184,56 +184,31 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-14">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-290">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-11" value="퀴즈 제출" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-11" value="퀴즈 만들기" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-12" target="-t9qpgIpIZ9ehlNt-14M-22">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-12" target="-t9qpgIpIZ9ehlNt-14M-286">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-12" value="퀴즈 풀기" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-12" value="퀴즈 풀기" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-14" target="-t9qpgIpIZ9ehlNt-14M-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-14" value="퀴즈 장르 선택" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-16" target="-t9qpgIpIZ9ehlNt-14M-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-16" value="퀴즈 입력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-18" target="-t9qpgIpIZ9ehlNt-14M-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-18" value="제출 자료&amp;nbsp;&lt;br&gt;뒤끝 저장" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-20" value="퀴즈홈 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="1345" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-22" target="-t9qpgIpIZ9ehlNt-14M-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-22" value="퀴즈 장르 선택" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-24" target="-t9qpgIpIZ9ehlNt-14M-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-24" value="퀴즈 출력" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="1130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-26" target="-t9qpgIpIZ9ehlNt-14M-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-26" value="답안 작성&lt;br&gt;(객관식, 주관식)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="1260" width="120" height="80" as="geometry" />
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-286" target="-t9qpgIpIZ9ehlNt-14M-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="1050" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-31" value="오답" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-28" target="-t9qpgIpIZ9ehlNt-14M-30">
           <mxGeometry relative="1" as="geometry" />
@@ -242,16 +217,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-28" value="정답&lt;br&gt;인가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="1420" width="80" height="80" as="geometry" />
+          <mxGeometry x="1540" y="1130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-30" target="-t9qpgIpIZ9ehlNt-14M-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-30" value="오답 화면 송출" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1680" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1680" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-32" value="오답 화면 UI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1880" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1880" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-34" value="문제 출제 확인" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1170" y="-1630" width="630" height="1120" as="geometry" />
@@ -327,35 +302,41 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-55" value="해당 출제자 보상&lt;br&gt;제공" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-980" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-73" target="-t9qpgIpIZ9ehlNt-14M-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-73" value="다음문제" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2320" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="2330" y="1241" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-76" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-32" target="-t9qpgIpIZ9ehlNt-14M-73">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-76" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2040" y="1500" as="sourcePoint" />
-            <mxPoint x="2090" y="1450" as="targetPoint" />
+            <mxPoint x="2040" y="1210" as="sourcePoint" />
+            <mxPoint x="2390" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2390" y="1170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-71" target="-t9qpgIpIZ9ehlNt-14M-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-71" value="메인으로" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2100" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-78" target="-t9qpgIpIZ9ehlNt-14M-80">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2389.66" y="1300" as="sourcePoint" />
+            <mxPoint x="2389.66" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-78" target="-t9qpgIpIZ9ehlNt-14M-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-78" value="현재 문제를 제외한 문제 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2320" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="2330" y="1381" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-80" value="퀴즈풀기&lt;br&gt;불러오기" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2320" y="1710" width="120" height="60" as="geometry" />
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-80" value="퀴즈풀기&lt;br&gt;불러오기" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2330" y="1521" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-83" value="홈화면 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2100" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="2100" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-85" target="-t9qpgIpIZ9ehlNt-14M-87">
           <mxGeometry relative="1" as="geometry" />
@@ -396,48 +377,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-103" value="현재 플레이어&lt;br&gt;&amp;nbsp;추첨권 추가" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-105" value="정답 화면 송출" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="-t9qpgIpIZ9ehlNt-14M-130" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1640" y="1950" as="sourcePoint" />
+            <mxPoint x="1640" y="1660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-130" value="정답 화면 UI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1720" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1720" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-132" target="-t9qpgIpIZ9ehlNt-14M-137" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-132" value="다음문제" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2160" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-133" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-130" target="-t9qpgIpIZ9ehlNt-14M-132" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1880" y="1990" as="sourcePoint" />
-            <mxPoint x="1930" y="1940" as="targetPoint" />
+            <mxPoint x="1880" y="1700" as="sourcePoint" />
+            <mxPoint x="1930" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-135" target="-t9qpgIpIZ9ehlNt-14M-139" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-135" value="메인으로" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1940" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-t9qpgIpIZ9ehlNt-14M-137" target="-t9qpgIpIZ9ehlNt-14M-138" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-137" value="현재 문제를 제외한 문제 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2160" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-138" value="퀴즈풀기&lt;br&gt;불러오기" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2160" y="2200" width="120" height="60" as="geometry" />
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-138" value="퀴즈풀기&lt;br&gt;불러오기" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2160" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-139" value="홈화면 불러오기" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1940" y="2060" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-189" value="1이상" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-140" target="-t9qpgIpIZ9ehlNt-14M-188">
           <mxGeometry relative="1" as="geometry" />
@@ -636,7 +617,7 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-69" target="-t9qpgIpIZ9ehlNt-14M-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-205" value="퀴즈 제출" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-205" value="만든 퀴즈 제출" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1180" y="-460" width="690" height="970" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-229" value="Make-Quiz &lt;br&gt;리스트 호출" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-t9qpgIpIZ9ehlNt-14M-205">
@@ -681,7 +662,7 @@
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-233" target="-t9qpgIpIZ9ehlNt-14M-235">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-240" value="퀴즈 풀기" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-240" value="퀴즈 출력" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2020" y="-1630" width="730" height="1690" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-241" value="Quiz &lt;br&gt;리스트 불러오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-t9qpgIpIZ9ehlNt-14M-240">
@@ -757,6 +738,15 @@
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-208" target="-t9qpgIpIZ9ehlNt-14M-284">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-286" value="퀴즈 제출" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1520" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-292" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-290" target="-t9qpgIpIZ9ehlNt-14M-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-290" value="만든 퀴즈 제출" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
