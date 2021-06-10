@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T08:51:41.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gYbn9c54r7aIVzdJFUR8" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T04:29:45.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_QTIR9bYTfCDna0zZKAH" version="14.7.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="15058" dy="9276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4405" dy="3399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -181,7 +181,7 @@
             <mxPoint x="980" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-t9qpgIpIZ9ehlNt-14M-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-12" edge="1">
+        <mxCell id="-t9qpgIpIZ9ehlNt-14M-13" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;align=center;strokeColor=#000000;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-t9qpgIpIZ9ehlNt-14M-11" target="-t9qpgIpIZ9ehlNt-14M-290" edge="1">
@@ -229,7 +229,7 @@
           <mxGeometry x="1880" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-34" value="문제 출제 확인" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1170" y="-1630" width="630" height="1120" as="geometry">
+          <mxGeometry x="-1210" y="-1630" width="690" height="1120" as="geometry">
             <mxRectangle x="-1170" y="-1630" width="110" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -260,7 +260,7 @@
           <mxGeometry x="190" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-35" value="List Quiz" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="-1309" width="140" height="140" as="geometry" />
+          <mxGeometry x="-420" y="-449" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-36" value="Quiz_Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-t9qpgIpIZ9ehlNt-14M-35" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry y="78" width="140" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-39" value="List Make_Quiz" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="414" y="-1310" width="140" height="160" as="geometry" />
+          <mxGeometry x="-216" y="-450" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-40" value="Quiz_Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-t9qpgIpIZ9ehlNt-14M-39" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -620,7 +620,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-205" value="만든 퀴즈 제출" style="swimlane;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1180" y="-460" width="690" height="970" as="geometry" />
+          <mxGeometry x="-1210" y="-460" width="690" height="970" as="geometry">
+            <mxRectangle x="-1180" y="-460" width="110" height="23" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-t9qpgIpIZ9ehlNt-14M-229" value="Make-Quiz &lt;br&gt;리스트 호출" style="rounded=0;whiteSpace=wrap;html=1;" parent="-t9qpgIpIZ9ehlNt-14M-205" vertex="1">
           <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
